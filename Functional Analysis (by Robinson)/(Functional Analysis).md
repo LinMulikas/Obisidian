@@ -1,5 +1,5 @@
 
-# Functional Analysis by Ronbinson
+# Part I. Preliminaries.
 
 
 ## [[(1. Vector Spaces)]]
@@ -7,6 +7,8 @@
 
 
 ## [[(2. Metric Spaces)]]
+
+# Part II. Normed Linear Spaces.
 
 
 
@@ -26,7 +28,10 @@
 ## [[(6. Continuous Function Spaces)]]
 
 
-## [[7.  Completions and the Lebesgue Spaces Lp]]
+## [[(7.  Completions and the Lebesgue Spaces Lp)]]
+
+
+# Part III. Hilbert Spaces.
 
 
 ## [[(8. Hilbert Spaces)]]
