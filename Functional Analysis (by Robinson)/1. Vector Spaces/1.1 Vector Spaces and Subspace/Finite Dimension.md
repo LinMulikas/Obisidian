@@ -1,0 +1,1 @@
+A [[Vector Space]] is *finite dimension* if it has a finite number [[Bases]].

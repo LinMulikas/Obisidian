@@ -1,0 +1,1 @@
+A set is *Separable*, which means it has a [[Countable]] [[Dense]] subset.

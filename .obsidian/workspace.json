@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "404cac5174eb8ed6",
+    "type": "split",
+    "children": [
+      {
+        "id": "476e73a7a3c1713e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "290da040a29d38f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "692e090cb4398f21",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea51ef9c41ae7f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a023acbaa5f3f2c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90ef9015ce4f39da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "map",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e595b174b488b1b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 326.5
+  },
+  "right": {
+    "id": "aef109f8105f5cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "430c75db51afbef9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa37309011b34885",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3fa999db961b099",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b48dd41cc2104dee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d8a25e7b3a4167b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "290da040a29d38f3",
+  "lastOpenFiles": [
+    "11.md",
+    "0. Materials/Inspiration/Hilbert's tenth problem an introduction to logic.pdf",
+    "Machine Learning/Machine Learning by MA234/1. Classification/Bayes Classifier/Logistic Regression.md",
+    "Machine Learning/Machine Learning by MA234/0. Machine Learning/Machine Learning.md",
+    "____Archieve/__Obsidian Files/Pasted image 20230328194306.png",
+    "____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
+    "____Archieve/__Obsidian Files",
+    "____Archieve/Books Files/Mathematics/Functional Analysis by Robinson.pdf",
+    "____Archieve/Books Files/Mathematics",
+    "____Archieve/Books Files/Language Construction/Ontology Language/Logic - Language - Ontology.pdf",
+    "____Archieve/Books Files/Language Construction/Ontology Language",
+    "____Archieve/Books Files/Language Construction/Logical Language/Toward an Arithmetical Logic.pdf",
+    "____Archieve/Books Files/Language Construction/Logical Language/The Road to Universal Logic.pdf",
+    "____Archieve/Books Files/Language Construction/Logical Language/Completeness Theory of Propositional Logics.pdf",
+    "____Archieve/Books Files/Language Construction/Logical Language",
+    "____Archieve/(Books File).md",
+    "__Ego/Construct/Language and Resonation.md",
+    "__Ego/密码.md",
+    "__Ego/Self.md",
+    "Theoretical Computation/Note Fundamentals of Theoretical Computer Science.md",
+    "The Scheme (by R. KENT DYBVIG)/2. Get Started/(Procedure).md",
+    "The Scheme (by R. KENT DYBVIG)/2. Get Started/(2. Get Started).md",
+    "The Scheme (by R. KENT DYBVIG)/(The Scheme).md",
+    "The Scheme (by R. KENT DYBVIG)/(The Scheme by Myself).md",
+    "PDE/(Partial Differential Equation).md",
+    "Obsidian Template.md",
+    "Matrix Calculus/(Matrix Calculus).md",
+    "Matrix Calculus/(1. Represent of Vector, Linear Map).md",
+    "Machine Learning/Machine Learning by MA234/Struct.md",
+    "Machine Learning/Machine Learning by MA234/Spectral Clustering.md",
+    "Machine Learning/Machine Learning by MA234/1. Classification/SVM/SVM.md",
+    "Machine Learning/Machine Learning by MA234/1. Classification/Decision Tree/The maximum of Gini Index.md",
+    "Machine Learning/Machine Learning by MA234/1. Classification/Decision Tree/Gini Index.md",
+    "Machine Learning/Machine Learning by MA234/1. Classification/Decision Tree/Decision Tree.md",
+    "Machine Learning/Machine Learning by MA234/1. Classification/Bayes Classifier/Linear Discriminant Analysis.md",
+    "Machine Learning/Machine Learning by MA234/1. Classification/Bayes Classifier/Bayes Classifier.md",
+    "Machine Learning/Machine Learning by MA234/0. Machine Learning/s.md",
+    "Machine Learning/Machine Learning by MA234/0. Machine Learning/Regression.md",
+    "0. ____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
+    "未命名.canvas"
+  ]
+}

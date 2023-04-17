@@ -1,0 +1,195 @@
+{
+  "workspaces": {
+    "LinMulikas": {
+      "main": {
+        "id": "404cac5174eb8ed6",
+        "type": "split",
+        "children": [
+          {
+            "id": "ba16260b23867150",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "39baab4da0021834",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Books_Analysis_泛函分析 (by Robinson)/Functional Analysis.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "692e090cb4398f21",
+        "type": "split",
+        "children": [
+          {
+            "id": "ea51ef9c41ae7f1a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0a023acbaa5f3f2c",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "90ef9015ce4f39da",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e595b174b488b1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "0cce7394502af7be",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0cefdf85a904c739",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Books_Analysis_泛函分析 (by Robinson)/Functional Analysis.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "",
+                      "localJumps": 5,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": false,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 2.499755859375,
+                      "lineSizeMultiplier": 2.49756266276042,
+                      "collapse-forces": false,
+                      "centerStrength": 0.502400716145833,
+                      "repelStrength": 20,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.833218556359377,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 315.5
+      },
+      "right": {
+        "id": "aef109f8105f5cf7",
+        "type": "split",
+        "children": [
+          {
+            "id": "430c75db51afbef9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aa37309011b34885",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Books_Analysis_泛函分析 (by Robinson)/Functional Analysis.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c3fa999db961b099",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "b48dd41cc2104dee",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Books_Analysis_泛函分析 (by Robinson)/Functional Analysis.md"
+                  }
+                }
+              },
+              {
+                "id": "4d8a25e7b3a4167b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Books_Analysis_泛函分析 (by Robinson)/Functional Analysis.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "0cefdf85a904c739"
+    }
+  },
+  "active": "LinMulikas"
+}

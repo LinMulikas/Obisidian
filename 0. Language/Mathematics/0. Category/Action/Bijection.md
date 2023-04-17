@@ -1,0 +1,1 @@
+A [[Map]] is *bijection*, which means it's [[Injective]] and [[Surjection]].

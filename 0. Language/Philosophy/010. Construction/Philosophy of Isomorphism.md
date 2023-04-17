@@ -1,0 +1,1 @@
+ It's usually be described with the help of map, and the corresponding map is called *isomorphism*.
