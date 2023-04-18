@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a83feb776d79bd",
+        "id": "0dc06e27ac212058",
         "type": "tabs",
         "children": [
           {
-            "id": "a1801a24b696e212",
+            "id": "5a309d060ba29530",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,16 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "a1801a24b696e212",
+  "active": "5a309d060ba29530",
   "lastOpenFiles": [
+    "Japanese/(Japanese).md",
+    "Japanese/(1. 小李赴日).md",
+    "Machine Learning/Machine Learning by MA234/(Machine Learning MA234).md",
+    "Machine Learning/Machine Learning by MA234/Spectral Clustering.md",
+    "Machine Learning/Machine Learning by MA234/未命名.md",
+    "Machine Learning/Machine Learning by MA234/1. Clustering/(Spectral Clustering).md",
+    "Machine Learning/Machine Learning by MA234/1. Clustering",
+    "Machine Learning/Machine Learning by MA234/0. Machine Learning/Machine Learning.md",
     "Functional Analysis (by Robinson)/(Functional Analysis).md",
     "Functional Analysis (by Robinson)/1. Vector Spaces/(1. Vector Spaces).md",
     "Functional Analysis (by Robinson)/1. Vector Spaces/Hamel Basis.md",
@@ -165,18 +173,10 @@
     "0. Language/Mathematics/0. Category/Objs",
     "0. Language/Mathematics/0. Topology",
     "0. Language/Mathematics/Topological.md",
-    "0. Language/Mathematics/Topology.md",
-    "0. Language/Mathematics/1. Materials/Natural Number/Numerical Equality.md",
-    "Functional Analysis (by Robinson)/3. Normed Spaces/3.5 Isomorphism between Normed Spaces/Isometric.md",
-    "0. Language/Mathematics/1. Materials/Special Functions/(Special Functions).md",
-    "0. Language/Mathematics/1. Construction/(Topology).md",
-    "0. Language/Mathematics/1. Construction/(Analytic Analysis).md",
-    "0. Language/Mathematics/0. Set/Construction/Countable.md",
     "Functional Analysis (by Robinson)/7. Completions and the Lebesgue Spaces Lp",
     "0. Materials/Inspiration/Hilbert's tenth problem an introduction to logic.pdf",
     "____Archieve/__Obsidian Files/Pasted image 20230328194306.png",
     "____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
-    "____Archieve/__Obsidian Files",
     "0. ____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
     "未命名.canvas"
   ]
