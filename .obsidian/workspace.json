@@ -11,8 +11,10 @@
             "id": "5a309d060ba29530",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf"
+              }
             }
           }
         ],
@@ -82,6 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -103,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf"
+              }
             }
           },
           {
@@ -112,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +143,25 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "5a309d060ba29530",
+  "active": "0a023acbaa5f3f2c",
   "lastOpenFiles": [
+    "Functional Analysis/(Texts and Readings in Mathematics) S. Kesavan - Functional Analysis-Springer (2023).pdf",
+    "Functional Analysis",
+    "PDE/An introduction to PDE.pdf",
+    "Functional Analysis/Functional Analysis (by Michel Willem).pdf",
+    "Functional Analysis/(Cornerstones) Michel Willem - Functional Analysis - Fundamentals and Applications-BirkhÃ¤user (2023).pdf",
+    "Functional Analysis (by                                 Michel Willem)",
+    "PDE/Paritial Differential Equations(by Wolfgang).pdf",
+    "PDE/978-3-319-02099-0.pdf",
+    "PDE/(Graduate Texts in Mathematics, 294) Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods-Springer (2023).pdf",
+    "PDE/Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods (Graduate Texts in Mathematics, 294)-Springer (2023).pdf.download/Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods (Graduate Texts in Mathematics, 294)-Springer (2023).pdf",
+    "PDE/Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods (Graduate Texts in Mathematics, 294)-Springer (2023).pdf.download",
     "Japanese/(Japanese).md",
     "Japanese/(1. 小李赴日).md",
     "Machine Learning/Machine Learning by MA234/(Machine Learning MA234).md",
     "Machine Learning/Machine Learning by MA234/Spectral Clustering.md",
     "Machine Learning/Machine Learning by MA234/未命名.md",
     "Machine Learning/Machine Learning by MA234/1. Clustering/(Spectral Clustering).md",
-    "Machine Learning/Machine Learning by MA234/1. Clustering",
     "Machine Learning/Machine Learning by MA234/0. Machine Learning/Machine Learning.md",
     "Functional Analysis (by Robinson)/(Functional Analysis).md",
     "Functional Analysis (by Robinson)/1. Vector Spaces/(1. Vector Spaces).md",
@@ -163,18 +179,8 @@
     "Functional Analysis (by Robinson)/3. Normed Spaces/(3. Normed Spaces).md",
     "Functional Analysis (by Robinson)/1. Vector Spaces/(Lemma) The Numebr of Elements of Finite Hamel Basis.md",
     "Functional Analysis (by Robinson)/1. Vector Spaces/(Lemma) Maximal Linearly Independent Set is Hamel Basis.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.4 Spanning Set, Linear Independence and Bases",
     "Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Zorn's Lemma.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases",
-    "Basic Alg",
-    "0. Language/Mathematics/1. Algebra/未命名",
-    "0. Language/Mathematics/1. Algebra",
     "0. Language/Mathematics/(Mathematics).md",
-    "0. Language/Mathematics/0. Category/Objs",
-    "0. Language/Mathematics/0. Topology",
-    "0. Language/Mathematics/Topological.md",
-    "Functional Analysis (by Robinson)/7. Completions and the Lebesgue Spaces Lp",
-    "0. Materials/Inspiration/Hilbert's tenth problem an introduction to logic.pdf",
     "____Archieve/__Obsidian Files/Pasted image 20230328194306.png",
     "____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
     "0. ____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
