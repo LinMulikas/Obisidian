@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0dc06e27ac212058",
+        "id": "2fc4acd6e7f610b5",
         "type": "tabs",
         "children": [
           {
-            "id": "5a309d060ba29530",
+            "id": "22b8c5a2c5d7b145",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf"
+                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf"
               }
             }
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf",
+                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf"
+                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Functional Analysis/Functional Analysis (by Michel Willem).pdf",
+                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,19 +143,19 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0a023acbaa5f3f2c",
+  "active": "22b8c5a2c5d7b145",
   "lastOpenFiles": [
+    "____Archieve/Books Files/Mathematics/变分法基础.pdf",
+    "____Archieve/Books Files/Mathematics/泛函分析导论及其应用.pdf",
+    "____Archieve/Books Files/Mathematics/微分方程与数学物理问题.pdf",
+    "____Archieve/Books Files/变分法基础.pdf",
+    "Functional Analysis/Functinal Analysis (by S. Kesavan).pdf",
     "Functional Analysis/(Texts and Readings in Mathematics) S. Kesavan - Functional Analysis-Springer (2023).pdf",
     "Functional Analysis",
     "PDE/An introduction to PDE.pdf",
     "Functional Analysis/Functional Analysis (by Michel Willem).pdf",
     "Functional Analysis/(Cornerstones) Michel Willem - Functional Analysis - Fundamentals and Applications-BirkhÃ¤user (2023).pdf",
     "Functional Analysis (by                                 Michel Willem)",
-    "PDE/Paritial Differential Equations(by Wolfgang).pdf",
-    "PDE/978-3-319-02099-0.pdf",
-    "PDE/(Graduate Texts in Mathematics, 294) Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods-Springer (2023).pdf",
-    "PDE/Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods (Graduate Texts in Mathematics, 294)-Springer (2023).pdf.download/Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods (Graduate Texts in Mathematics, 294)-Springer (2023).pdf",
-    "PDE/Wolfgang Arendt, Karsten Urban - Partial Differential Equations_ An Introduction to Analytical and Numerical Methods (Graduate Texts in Mathematics, 294)-Springer (2023).pdf.download",
     "Japanese/(Japanese).md",
     "Japanese/(1. 小李赴日).md",
     "Machine Learning/Machine Learning by MA234/(Machine Learning MA234).md",
