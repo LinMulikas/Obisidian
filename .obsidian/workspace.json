@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2fc4acd6e7f610b5",
+        "id": "5589d3172c370a57",
         "type": "tabs",
         "children": [
           {
-            "id": "22b8c5a2c5d7b145",
+            "id": "7b3d61f558660d86",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -84,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "____Archieve/Books Files/Mathematics/变分法基础.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +137,7 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "22b8c5a2c5d7b145",
+  "active": "7b3d61f558660d86",
   "lastOpenFiles": [
     "____Archieve/Books Files/Mathematics/变分法基础.pdf",
     "____Archieve/Books Files/Mathematics/泛函分析导论及其应用.pdf",
