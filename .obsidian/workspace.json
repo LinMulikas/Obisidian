@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5589d3172c370a57",
+        "id": "c379f53155c226ac",
         "type": "tabs",
         "children": [
           {
-            "id": "7b3d61f558660d86",
+            "id": "028d5fe821e13ffb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "____Archieve/julia-1.8.5.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -84,7 +82,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "____Archieve/julia-1.8.5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -106,9 +103,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "____Archieve/julia-1.8.5.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "____Archieve/julia-1.8.5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +137,15 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "7b3d61f558660d86",
+  "active": "0a023acbaa5f3f2c",
   "lastOpenFiles": [
-    "____Archieve/Books Files/Machine Learning/The Elements of Statistical Learning.pdf",
+    "PDE/Paritial Differential Equations(by Wolfgang).pdf",
+    "PDE/(Partial Differential Equation).md",
+    "Theoretical Computation/Note Fundamentals of Theoretical Computer Science.md",
+    "Matrix Calculus/(1. Represent of Vector, Linear Map).md",
+    "Matrix Calculus/(Matrix Calculus).md",
     "____Archieve/julia-1.8.5.pdf",
+    "____Archieve/Books Files/Machine Learning/The Elements of Statistical Learning.pdf",
     "____Archieve/Books Files/Machine Learning",
     "____Archieve/Books Files/Mathematics/变分法基础.pdf",
     "____Archieve/Books Files/Mathematics/泛函分析导论及其应用.pdf",
@@ -155,7 +154,6 @@
     "Functional Analysis/Functinal Analysis (by S. Kesavan).pdf",
     "Functional Analysis/(Texts and Readings in Mathematics) S. Kesavan - Functional Analysis-Springer (2023).pdf",
     "Functional Analysis",
-    "PDE/An introduction to PDE.pdf",
     "Japanese/(Japanese).md",
     "Japanese/(1. 小李赴日).md",
     "Machine Learning/Machine Learning by MA234/(Machine Learning MA234).md",
@@ -177,10 +175,6 @@
     "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Finite Dimension.md",
     "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Vector.md",
     "Functional Analysis (by Robinson)/3. Normed Spaces/(3. Normed Spaces).md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/(Lemma) The Numebr of Elements of Finite Hamel Basis.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/(Lemma) Maximal Linearly Independent Set is Hamel Basis.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Zorn's Lemma.md",
-    "0. Language/Mathematics/(Mathematics).md",
     "____Archieve/__Obsidian Files/Pasted image 20230328194306.png",
     "____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
     "0. ____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
