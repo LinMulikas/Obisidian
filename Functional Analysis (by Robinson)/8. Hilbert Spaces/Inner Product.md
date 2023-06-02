@@ -4,4 +4,4 @@ An *inner product* $(\cdot, \cdot)$ on a [[Vector Space]] $V$ to $\mathbb K$ is 
 3. Linearity.
 4. Conjugate Symmetric.
 	Use the *conjugate symmetric*, one can derives the *multi-additivity* in the real case.
-	
+

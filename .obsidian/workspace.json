@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c379f53155c226ac",
+        "id": "6af752d663cfce08",
         "type": "tabs",
         "children": [
           {
-            "id": "028d5fe821e13ffb",
+            "id": "a38ea8df137b892f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -59,6 +59,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9a2fba9e422814a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -137,8 +145,31 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "0a023acbaa5f3f2c",
+  "active": "a38ea8df137b892f",
   "lastOpenFiles": [
+    "Functional Analysis (by Robinson)/(Functional Analysis).md",
+    "Functional Analysis (by Robinson)/test.md",
+    "Functional Analysis (by Robinson)/7. Completions and the Lebesgue Spaces Lp/(7.  Completions and the Lebesgue Spaces Lp).md",
+    "Functional Analysis (by Robinson)/13. The Hilbert Adjoint of a Linear Operator/(13. The Hilbert Adjoint of a Linear Operator).md",
+    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem/(12. Dual Spaces and the Riesz Representation Theorem).md",
+    "Functional Analysis (by Robinson)/13. The Hilbert Adjoint of a Linear Operator",
+    "Functional Analysis (by Robinson)/9. Orthonormal Sets and Orthonormal Bases for Hilbert Spaces/(9. Orthonormal Sets and Orthonormal Bases for Hilbert Spaces).md",
+    "Functional Analysis (by Robinson)/9. Orthonormal Sets and Orthonormal Bases for Hilbert Spaces/Schauder Basis.md",
+    "Functional Analysis (by Robinson)/3. Normed Spaces/3.1 Norms/Normed Space.md",
+    "Functional Analysis (by Robinson)/9. Orthonormal Sets and Orthonormal Bases for Hilbert Spaces",
+    "Functional Analysis (by Robinson)/1. Vector Spaces/Hamel Basis.md",
+    "Functional Analysis (by Robinson)/1. Vector Spaces/1.2 Linear Independent and Bases/Basis.md",
+    "Functional Analysis (by Robinson)/8. Hilbert Spaces/(8. Hilbert Spaces).md",
+    "Functional Analysis (by Robinson)/8. Hilbert Spaces/Inner-product Space.md",
+    "Functional Analysis (by Robinson)/8. Hilbert Spaces/Induced Norm of Inner Product.md",
+    "Functional Analysis (by Robinson)/8. Hilbert Spaces/Inner Product.md",
+    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem/Dual Space.md",
+    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem/Dual Norm.md",
+    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem/Linear Functional.md",
+    "Functional Analysis (by Robinson)/11. Linear Maps between Normed Spaces/(11. Linear Maps between Normed Spaces).md",
+    "Functional Analysis (by Robinson)/12. Dual Spaces and The Riesz Representation Theorem",
+    "Functional Analysis (by Robinson)/12. Dual Spaces and the Riesz Representation Theorem.md",
+    "Basic Algebra (by Knapp)/(Algebra).md",
     "PDE/Paritial Differential Equations(by Wolfgang).pdf",
     "PDE/(Partial Differential Equation).md",
     "Theoretical Computation/Note Fundamentals of Theoretical Computer Science.md",
@@ -150,31 +181,8 @@
     "____Archieve/Books Files/Mathematics/变分法基础.pdf",
     "____Archieve/Books Files/Mathematics/泛函分析导论及其应用.pdf",
     "____Archieve/Books Files/Mathematics/微分方程与数学物理问题.pdf",
-    "____Archieve/Books Files/变分法基础.pdf",
-    "Functional Analysis/Functinal Analysis (by S. Kesavan).pdf",
-    "Functional Analysis/(Texts and Readings in Mathematics) S. Kesavan - Functional Analysis-Springer (2023).pdf",
-    "Functional Analysis",
     "Japanese/(Japanese).md",
     "Japanese/(1. 小李赴日).md",
-    "Machine Learning/Machine Learning by MA234/(Machine Learning MA234).md",
-    "Machine Learning/Machine Learning by MA234/Spectral Clustering.md",
-    "Machine Learning/Machine Learning by MA234/未命名.md",
-    "Machine Learning/Machine Learning by MA234/1. Clustering/(Spectral Clustering).md",
-    "Machine Learning/Machine Learning by MA234/0. Machine Learning/Machine Learning.md",
-    "Functional Analysis (by Robinson)/(Functional Analysis).md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/(1. Vector Spaces).md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/Hamel Basis.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.2 Linear Independent and Bases/Basis.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/Spanning Set.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Linear Span.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Linear Combination.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.4 Spanning Set, Linear Independence and Bases/Linearly Independent.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.6 The existence of Hamel Bases/Basis.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Vector Space.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/Dimension.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Finite Dimension.md",
-    "Functional Analysis (by Robinson)/1. Vector Spaces/1.1 Vector Spaces and Subspace/Vector.md",
-    "Functional Analysis (by Robinson)/3. Normed Spaces/(3. Normed Spaces).md",
     "____Archieve/__Obsidian Files/Pasted image 20230328194306.png",
     "____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
     "0. ____Archieve/__Obsidian Files/Pasted image 20230320154423.png",
